@@ -1,0 +1,1 @@
+El proyecto analiza un dataset de 1,470 empleados mediante técnicas de análisis exploratorio de datos en Python. Se emplean visualizaciones estadísticas para comprender cómo factores como edad, ingreso, satisfacción, antigüedad y nivel de puesto influyen en la decisión de renunciar o permanecer en la organización.
